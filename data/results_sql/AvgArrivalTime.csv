@@ -1,0 +1,28 @@
+state,total_orders_to_state,avg_delivery_customer_state,total_orders_from_state,avg_delivery_seller_state
+Acre,80,21.0,,
+Alagoas,397,24.5,,
+Amapa,67,27.2,,
+Amazonas,145,26.4,3.0,47.8
+Bahia,3256,19.3,624.0,13.8
+Ceara,1279,21.3,90.0,17.9
+Distrito Federal,2080,13.0,883.0,12.5
+Espirito Santo,1995,15.8,364.0,12.9
+Goias,1957,15.6,508.0,12.8
+Maranhao,717,21.6,402.0,17.7
+Mato Grosso,886,18.1,144.0,14.7
+Mato Grosso do Sul,701,15.6,50.0,12.3
+Minas Gerais,11355,12.0,8602.0,12.8
+Para,946,23.8,8.0,13.4
+Paraiba,517,20.4,37.0,12.5
+Parana,4923,12.0,8487.0,13.4
+Pernambuco,1593,18.4,445.0,12.9
+Piaui,476,19.5,11.0,13.8
+Rio de Janeiro,12353,15.3,4689.0,12.0
+Rio Grande do Norte,474,19.3,56.0,13.0
+Rio Grande do Sul,5344,15.3,2169.0,11.6
+Rondonia,243,19.4,14.0,17.4
+Roraima,41,29.4,,
+Santa Catarina,3547,15.0,4000.0,13.6
+Sao Paulo,40495,8.8,78600.0,12.3
+Sergipe,335,21.5,10.0,12.7
+Tocantins,274,17.7,,

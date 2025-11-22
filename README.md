@@ -1,6 +1,6 @@
 # Sales Performance and Delivery Insights for Brazilian E-Commerce
 
-**Author:** Arturo Alejandro Díaz Barbosa  | LinkedIn: [Arturo Díaz Barbosa](https://www.linkedin.com/in/arturo-díaz-barbosa)  
+**Author:** Arturo Alejandro Díaz Barbosa  | LinkedIn: [Arturo Díaz Barbosa](https://www.linkedin.com/in/arturo-diaz-barbosa)  
 **Date:** June 2025
 
 **Data Source:**  
